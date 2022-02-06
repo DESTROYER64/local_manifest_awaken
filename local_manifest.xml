@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="D34DPUL/device_motorola_liber-3" path="device/motorola/liber" remote="github" revision="StatiX" />
+  <project name="D34DPUL/device_motorola_sm6150-common" path="device/motorola/sm6150-common" remote="github" revision="TEST" />
+  <project name="D34DPUL/proprietary_vendor_motorola-3" path="vendor/motorola" remote="github" revision="eleven" />
+  <project name="D34DPUL/kernel_motorola-sm6150-3" path="kernel/motorola/sm6150" remote="github" revision="StatiX" />
+</manifest>
