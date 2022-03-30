@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="D34DPUL/device_motorola_liber" path="device/motorola/liber" remote="github" revision="awaken-vanilla" />
-  <project name="D34DPUL/device_motorola_sm6150-common" path="device/motorola/sm6150-common" remote="github" revision="lineage-19.0" />
-  <project name="D34DPUL/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="lineage-19.0" />
-  <project name="D34DPUL/kernel_motorola_sm6150" path="kernel/motorola/sm6150" remote="github" revision="lineage-19.0" />
+  <project name="D34DPUL/device_motorola_sm6150-common" path="device/motorola/sm6150-common" remote="github" revision="lineage-19.1" />
+  <project name="D34DPUL/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="lineage-19.1" />
+  <project name="D34DPUL/kernel_motorola_sm6150" path="kernel/motorola/sm6150" remote="github" revision="lineage-19.1" />
 </manifest>
